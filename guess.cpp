@@ -64,4 +64,5 @@ int main()
     guessNumber A;                  //created an object 
     A.displayMessage();             //displayMessage function called
     A.findNumber();                 //findNumber function called
+    return 0;
 }
